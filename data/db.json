@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim felis ut tortor sagittis, vel volutpat tortor posuere. Nullam laoreet tellus ut risus viverra tincidunt nec ac nisi. Fusce vel est ac lacus cursus pellentesque. Aenean nunc tellus, pulvinar vitae ullamcorper ac, tempus quis erat. Nunc posuere scelerisque porttitor. Vestibulum suscipit metus a gravida molestie. Proin porttitor neque velit, vel condimentum lectus suscipit a. Mauris auctor hendrerit enim, vel vulputate ligula vulputate vehicula. In justo diam, posuere at lacus in, mollis consectetur tortor.",
+      "author": "Kotana ",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim felis ut tortor sagittis, vel volutpat tortor posuere. Nullam laoreet tellus ut risus viverra tincidunt nec ac nisi. Fusce vel est ac lacus cursus pellentesque. Aenean nunc tellus, pulvinar vitae ullamcorper ac, tempus quis erat. Nunc posuere scelerisque porttitor. Vestibulum suscipit metus a gravida molestie. Proin porttitor neque velit, vel condimentum lectus suscipit a. Mauris auctor hendrerit enim, vel vulputate ligula vulputate vehicula. In justo diam, posuere at lacus in, mollis consectetur tortor.",
+      "author": "Allan",
+      "id": 2
+    },
+    {
+      "title": "Web dev top Tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim felis ut tortor sagittis, vel volutpat tortor posuere. Nullam laoreet tellus ut risus viverra tincidunt nec ac nisi. Fusce vel est ac lacus cursus pellentesque. Aenean nunc tellus, pulvinar vitae ullamcorper ac, tempus quis erat. Nunc posuere scelerisque porttitor. Vestibulum suscipit metus a gravida molestie. Proin porttitor neque velit, vel condimentum lectus suscipit a. Mauris auctor hendrerit enim, vel vulputate ligula vulputate vehicula. In justo diam, posuere at lacus in, mollis consectetur tortor.",
+      "author": "Yves",
+      "id": 3
+    },
+    {
+      "title": "hjgyjhgvjhn",
+      "body": "vhhgn vb ",
+      "author": "Kotana",
+      "id": 4
+    },
+    {
+      "title": "svnkjsnvxdck,m",
+      "body": "ojfviojamklevd",
+      "author": "Kotana",
+      "id": 5
+    },
+    {
+      "title": "uhfjshnjkv",
+      "body": "fuchujkafzvf x",
+      "author": "Kotana",
+      "id": 6
+    }
+  ]
+}
